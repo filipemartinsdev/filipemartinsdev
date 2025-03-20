@@ -1,6 +1,5 @@
 # `👋 Ola! Eu sou o Filipe`
-### </> Estudante de Desenvolvimento WEB
-📌 Meu desejo é tornar suas ideias realidade!
+### </> Estudante de Engenharia de Software
 
 <hr>
 
@@ -8,16 +7,15 @@
   
 | canal | contato |
 |---|---|
-| email | fiilipe.martins.dev@gmail.com | 
+| email | filipemartins.pessoal@gmail.com | 
 
 <hr>
 
 ### 🎯Skills
-- **`HTML`** 
-- **`CSS`** 
+- **`HTML, CSS`** 
 - **`JavaScript`**
 - **`NodeJS`**
-- **`GIT`**
+- **`Git`**
 - **`Figma`**
 
 <hr>
