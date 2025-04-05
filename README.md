@@ -17,6 +17,8 @@
 - **`NodeJS`**
 - **`Git`**
 - **`Figma`**
+- **`Java`**
+- **`Python`**
 
 <hr>
 
