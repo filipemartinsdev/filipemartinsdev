@@ -7,7 +7,8 @@
   
 | canal | contato |
 |---|---|
-| email | filipemartins.pessoal@gmail.com | 
+| email | dev.filipemartins@gmail.com | 
+| whatsapp | (62)98163-2892 |
 
 <hr>
 
