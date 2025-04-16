@@ -16,9 +16,9 @@
 - **`HTML, CSS`** 
 - **`JavaScript`**
 - **`NodeJS`**
+- **`Java`**
 - **`Git`**
 - **`Figma`**
-- **`Java`**
 - **`Python`**
 
 <hr>
