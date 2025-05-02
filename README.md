@@ -12,15 +12,11 @@
 
 <hr>
 
-### 🎯Skills
-- **`HTML, CSS`** 
-- **`JavaScript`**
-- **`NodeJS`**
-- **`Java`**
-- **`Git`**
-- **`Figma`**
-- **`Python`**
-
+### 🎯 Stack
+- **`Langs | Java, JavaScript, HTML, CSS Python`**
+- **`DBs | PostgreSQL`**
+- **`IDEs | VS Code, Intellij`**
+  
 <hr>
 
 <!---
