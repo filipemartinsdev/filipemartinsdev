@@ -13,9 +13,9 @@
 <hr>
 
 ### 🎯 Stack
-- **`Langs | Java, JavaScript, HTML, CSS Python`**
-- **`DBs | PostgreSQL`**
-- **`IDEs | VS Code, Intellij`**
+- **`Langs | Java, JavaScript, SQL, HTML, CSS e Python`**
+- **`DBs   | PostgreSQL`**
+- **`IDEs  | VS Code e Intellij`**
   
 <hr>
 
