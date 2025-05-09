@@ -1,14 +1,9 @@
 # `👋 Ola! Eu sou o Filipe`
 ### </> Estudante de Engenharia de Software
 
-<hr>
+☕ Atualmente estudando Back-End com Java.
+Possuo conhecimento de Front-End Web com JavaScript/HTML/CSS.
 
-### 📫 Fale comigo:
-  
-| canal | contato |
-|---|---|
-| email | dev.filipemartins@gmail.com | 
-| whatsapp | (62)98163-2892 |
 
 <hr>
 
@@ -18,6 +13,14 @@
 - **`IDEs  | VS Code e Intellij`**
   
 <hr>
+
+### 📫 Fale comigo:
+  
+| canal | contato |
+|---|---|
+| email | filipemartins.pessoal@gmail.com | 
+| whatsapp | (62)98163-2892 |
+
 
 <!---
 FilipeMartins-dev/FilipeMartins-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
