@@ -2,8 +2,6 @@
 ### </> Estudante de Engenharia de Software
 
 ☕ Atualmente estudando Back-End com Java.
-Possuo conhecimento de Front-End Web com JavaScript/HTML/CSS.
-
 
 <hr>
 
@@ -18,7 +16,7 @@ Possuo conhecimento de Front-End Web com JavaScript/HTML/CSS.
   
 | canal | contato |
 |---|---|
-| email | filipemartins.pessoal@gmail.com | 
+| email | dev.filipemartins@gmail.com | 
 | whatsapp | (62)98163-2892 |
 
 
