@@ -6,10 +6,15 @@
 <hr>
 
 ### 🎯 Stack
-- **`Langs  | Java, JavaScript, SQL, HTML, CSS e Python`**
-- **`DBs    | PostgreSQL`**
-- **`IDEs   | VS Code e Intellij`**
-- **`Outros | Postman`**
+**`Java`**
+**`SQL`**
+**`PostgreSQL`**
+**`Git`**
+**`Postman`**
+**`HTML`**
+**`CSS`**
+**`JavaScript`**
+**`Python`**
   
 <hr>
 
@@ -17,7 +22,7 @@
   
 | canal | contato |
 |---|---|
-| email | dev.filipemartins@gmail.com | 
+| email | filipemartins.pessoal@gmail.com | 
 | whatsapp | (62)98163-2892 |
 
 
