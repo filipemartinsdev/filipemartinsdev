@@ -5,17 +5,13 @@
 
 <hr>
 
+
+
 ### 🎯 Stack
-**`Java`**
-**`SQL`**
-**`PostgreSQL`**
-**`Git`**
-**`Postman`**
-**`HTML`**
-**`CSS`**
-**`JavaScript`**
-**`Python`**
-  
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,supabase,maven,postman,git,js,python,html,css,idea,vscode,linux)](https://skillicons.dev)
+
+
 <hr>
 
 ### 📫 Fale comigo:
