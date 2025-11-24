@@ -22,11 +22,12 @@
   <img src="https://github.com/user-attachments/assets/54a12da3-57a9-4ef4-96e1-87143e8d0ac8" style="height: 120pt;">
 </div>
 
+
 <hr>
 
 ### 🎯 Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,python,html,css,postgresql,supabase,hibernate,maven,postman,git,idea,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,js,html,css,git,postgresql,supabase,hibernate,maven,postman,idea,vscode,linux)](https://skillicons.dev)
 
 
 <hr>
