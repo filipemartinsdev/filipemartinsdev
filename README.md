@@ -16,20 +16,22 @@
 </div>
 
 
-<div style="width: 480pt; height: 100pt; overflow: hidden">
-  <img src="https://github.com/user-attachments/assets/3f0546e6-d9c6-4356-a04b-6a49ecbda7ac" style="width: 180pt;">
+<div style="width: 100vw; height: 100pt; display:flex">
+  <img src="https://github.com/user-attachments/assets/3f0546e6-d9c6-4356-a04b-6a49ecbda7ac" style="height: 120pt;">
+  
+  <img src="https://github.com/user-attachments/assets/54a12da3-57a9-4ef4-96e1-87143e8d0ac8" style="height: 120pt;">
 </div>
 
 <hr>
 
 ### 🎯 Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,supabase,hibernate,maven,postman,git,js,python,html,css,idea,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,python,html,css,postgresql,supabase,hibernate,maven,postman,git,idea,vscode,linux)](https://skillicons.dev)
 
 
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipemartinsdev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipemartinsdev&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipemartinsdev&size_weight=0.5&count_weight=0.5&theme=dark&langs_count=7&layout=compact)
 
