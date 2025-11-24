@@ -3,18 +3,24 @@
 
 ☕ Atualmente estudando Back-End com Java.
 
-
+<div>
 <a href="https://www.linkedin.com/in/filipemartinsandrade" style="text-decoration: none">
   <image src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge">
 </a>
-
 <a href="https://mailto:filipemartins.pessoal@gmail.com" style="text-decoration: none">
   <image src="https://img.shields.io/badge/GMAIL-whitesmoke?style=for-the-badge&logo=gmail">
 </a>
-
-<a href="https://wa.link/h9ws20" style="text-decoration: none">
+<a href="https://wa.link/h9ws20" style="text-decoration: none; ">
   <image src="https://img.shields.io/badge/WHATSAPP-gray?style=for-the-badge&logo=whatsapp">
 </a>
+</div>
+
+
+<div style="width: 480pt; height: 100pt; overflow: hidden">
+  <img src="https://github.com/user-attachments/assets/eb92fa39-47f6-4a59-bbee-376dfe2fe676" style="width: 180pt;">
+</div>
+
+
 
 <hr>
 
