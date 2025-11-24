@@ -17,19 +17,14 @@
 
 
 <div style="width: 480pt; height: 100pt; overflow: hidden">
-  <img src="https://github.com/user-attachments/assets/eb92fa39-47f6-4a59-bbee-376dfe2fe676" style="width: 180pt;">
+  <img src="https://github.com/user-attachments/assets/3f0546e6-d9c6-4356-a04b-6a49ecbda7ac" style="width: 180pt;">
 </div>
-
-
 
 <hr>
 
 ### 🎯 Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,supabase,hibernate,maven,postman,git,js,python,html,css,idea,vscode,linux)](https://skillicons.dev)
-
-
-
 
 
 <hr>
