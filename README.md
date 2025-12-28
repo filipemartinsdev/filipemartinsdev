@@ -27,7 +27,7 @@
 
 ### 🎯 Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,js,html,css,git,postgresql,supabase,hibernate,maven,postman,idea,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,html,css,git,postgresql,supabase,hibernate,maven,postman,idea,vscode,linux)](https://skillicons.dev)
 
 
 <hr>
