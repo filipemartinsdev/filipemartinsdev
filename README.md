@@ -23,14 +23,14 @@
 </div>
 
 
-<hr>
+---
 
 ### 🎯 Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,js,html,css,git,postgresql,supabase,hibernate,maven,postman,idea,vscode,linux)](https://skillicons.dev)
 
 
-<hr>
+---
 
 ![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipemartinsdev&show_icons=true&theme=dark)
 
