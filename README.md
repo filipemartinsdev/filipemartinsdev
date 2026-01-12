@@ -19,8 +19,48 @@ Olá! 👋 Me chamo Filipe, sou **`desenvolvedor Backend`** e estou cursando Eng
     align="left"
     title="Java"
     width="30pt"
-    style="padding-right: 10px"
+    style="padding-right: 10pt"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
+
+<img
+    align="left"
+    title="Java"
+    width="30pt"
+    style="padding-right: 10pt"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+
+<img
+align="left"
+title="Java"
+width="30pt"
+style="padding-right: 10pt"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+
+<img
+align="left"
+title="Java"
+width="30pt"
+style="padding-right: 10pt"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"
+/>
+
+<img
+align="left"
+title="Java"
+width="30pt"
+style="padding-right: 10pt"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"
+/>
+
+<img
+align="left"
+title="Java"
+width="30pt"
+style="padding-right: 10pt"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg"
 />
 
 
