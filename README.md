@@ -18,7 +18,7 @@ Olá! 👋 Me chamo Filipe, sou **`desenvolvedor Backend`** e estou cursando Eng
 <img
     align="left"
     title="Java"
-    width="30px"
+    width="30pt"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
