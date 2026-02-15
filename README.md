@@ -1,6 +1,13 @@
 # 👨‍💻 Filipe Martins Andrade
 
-Olá! 👋 Me chamo Filipe, sou **`desenvolvedor Backend`** e estou cursando Engenharia de Software.
+Olá! 👋
+Sou `desenvolvedor Backend` e graduando em Engenharia de Software.
+
+Minha especialidade é o ecossistema Java e Spring, atuando na arquitetura, design e construção de software sustentável. Possuo experiência prática em todo o ciclo de desenvolvimento, desde planejamento, modelagem/otimização de banco de dados, testes unitários e deploy em nuvem.
+
+Meu foco é entregar software manutenível e que resolve o problema central do negócio.
+
+Atualmente, busco minha primeira oportunidade profissional para contribuir em projetos desafiadores e continuar evoluindo tecnicamente.
 
 <div>
 <a href="https://www.linkedin.com/in/filipemartinsandrade" style="text-decoration: none">
