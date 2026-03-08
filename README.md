@@ -23,12 +23,21 @@ Atualmente, busco minha primeira oportunidade profissional para contribuir em pr
 
 ### 🛠️ Languages and Tools
 
+
 <img
     align="left"
     title="Java"
     width="40pt"
     style="padding-right: 10pt"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img
+    align="left"
+    title="Kotlin"
+    width="40pt"
+    style="padding-right: 10pt"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
 
 <img
@@ -81,19 +90,11 @@ Atualmente, busco minha primeira oportunidade profissional para contribuir em pr
 
 <img
   align="left"
-  title="Apache Maven"
+  title="Hibernate ORM"
   width="40pt"
   style="padding-right: 10pt"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"
-/>
-
-<img
-  align="left"
-  title="SQL"
-  width="40pt"
-  style="padding-right: 10pt"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>        
+/>    
 
 <img
   align="left"
@@ -137,96 +138,9 @@ Atualmente, busco minha primeira oportunidade profissional para contribuir em pr
 
 <img
   align="left"
-  title="Supabase"
-  width="40pt"
-  style="padding-right: 10pt"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"
-/>     
-
-<img
-  align="left"
-  title="Railway"
-  width="40pt"
-  style="padding-right: 10pt"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg"
-/>     
-
-
-<img
-  align="left"
   title="Linux"
   width="40pt"
   style="padding-right: 10pt"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />          
-
-<img
-  align="left"
-  title="HTML"
-  width="40pt"
-  style="padding-right: 10pt"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>     
-
-<img
-  align="left"
-  title="CSS"
-  width="40pt"
-  style="padding-right: 10pt"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>     
-
-<img
-  align="left"
-  title="JavaScript"
-  width="40pt"
-  style="padding-right: 10pt"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>     
-
-<img
-  align="left"
-  title="Intellij"
-  width="40pt"
-  style="padding-right: 10pt"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
-/>   
-
-<img
-  align="left"
-  title="Intellij"
-  width="40pt"
-  style="padding-right: 10pt"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-/>   
-
-<br/>
-<br/>
-<br/>
-<br/>
-
----
-
-### Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=filipemartinsdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipemartinsdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-</p>
-
-
-
-
 
