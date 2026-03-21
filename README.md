@@ -21,8 +21,9 @@ Atualmente, busco minha primeira oportunidade profissional para contribuir em pr
 
 --- 
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
+<div>
 
 <img
     align="left"
@@ -54,6 +55,14 @@ Atualmente, busco minha primeira oportunidade profissional para contribuir em pr
   width="40pt"
   style="padding-right: 10pt"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg"
+/>
+
+<img
+  align="left"
+  title="OAuth"
+  width="40pt"
+  style="padding-right: 10pt"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg"
 />
 
 <img
@@ -122,18 +131,26 @@ Atualmente, busco minha primeira oportunidade profissional para contribuir em pr
 
 <img
   align="left"
-  title="SQLite"
-  width="40pt"
-  style="padding-right: 10pt"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
-/>        
-
-<img
-  align="left"
   title="Docker"
   width="40pt"
   style="padding-right: 10pt"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"
+/>
+
+<img
+  align="left"
+  title="Prometheus"
+  width="40pt"
+  style="padding-right: 10pt"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg"
+/>        
+
+<img
+  align="left"
+  title="Grafana"
+  width="40pt"
+  style="padding-right: 10pt"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"
 />
 
 <img
@@ -143,4 +160,18 @@ Atualmente, busco minha primeira oportunidade profissional para contribuir em pr
   style="padding-right: 10pt"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />          
+
+</div>
+
+
+<br>
+<br>
+<br>
+
+---
+
+
+
+
+
 
