@@ -139,6 +139,14 @@ Atualmente, busco minha primeira oportunidade profissional para contribuir em pr
 
 <img
   align="left"
+  title="RabbitMQ"
+  width="40pt"
+  style="padding-right: 10pt"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"
+/>
+
+<img
+  align="left"
   title="Prometheus"
   width="40pt"
   style="padding-right: 10pt"
