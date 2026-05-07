@@ -3,7 +3,7 @@
 Olá! 👋
 Sou `desenvolvedor Backend` e graduando em Engenharia de Software.
 
-Minha especialidade é o ecossistema Java e Spring, atuando na arquitetura, design e construção de software sustentável. Possuo experiência prática em todo o ciclo de desenvolvimento, desde planejamento, modelagem/otimização de banco de dados, testes unitários e deploy em nuvem.
+Minha especialidade é o ecossistema Java e Spring, atuando na arquitetura, design e construção de software sustentável. Possuo experiência prática em todo o ciclo de desenvolvimento, desde planejamento, modelagem de banco de dados, testes unitários e deploy.
 
 Meu foco é entregar software manutenível e que resolve o problema central do negócio.
 
