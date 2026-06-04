@@ -49,6 +49,15 @@ Atualmente, busco minha primeira oportunidade profissional para contribuir em pr
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
 
+
+<img
+    align="left"
+    title="Quarkus Framework"
+    width="40pt"
+    style="padding-right: 10pt"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg"
+/>        
+
 <img
   align="left"
   title="Junit"
