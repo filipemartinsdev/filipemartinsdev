@@ -1,13 +1,14 @@
-# 👨‍💻 Filipe Martins Andrade
+<div align="center">
+<h1>Filipe Martins Andrade</h1>
+</div>
 
-Olá! 👋
-Sou `desenvolvedor Backend` e graduando em `Engenharia de Software`.
+Hi there! 👋
+I'm `Backend Developer` and `Software Engineering` student.
 
-Minha especialidade é o ecossistema Java e Spring, atuando na arquitetura, design e construção de software sustentável. Possuo experiência prática em todo o ciclo de desenvolvimento, desde planejamento, modelagem de banco de dados, testes unitários e deploy.
+My specialty is the Java Ecosystem, working on the architecture, desing and construction of sustentability software. I have practical experience with the entire development cycle, including planning, database modeling, unit testing and technical documentation. 
 
-Meu foco é entregar software manutenível e que resolve o problema central do negócio.
+Currently, I am seeking my first professional opportunity to contribute to challenging projects and continue my technical development.  
 
-Atualmente, busco minha primeira oportunidade profissional para contribuir em projetos desafiadores e continuar evoluindo tecnicamente.
 
 <div>
 <a href="https://www.linkedin.com/in/filipemartinsandrade" style="text-decoration: none">
