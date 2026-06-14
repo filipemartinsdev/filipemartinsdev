@@ -14,7 +14,7 @@ Currently, I am seeking my first professional opportunity to contribute to chall
 <a href="https://www.linkedin.com/in/filipemartinsandrade" style="text-decoration: none">
   <image src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge">
 </a>
-<a href="https://mailto:filipemartins.pessoal@gmail.com" style="text-decoration: none">
+<a href="https://mailto:dev.filipemartins@gmail.com" style="text-decoration: none">
   <image src="https://img.shields.io/badge/GMAIL-whitesmoke?style=for-the-badge&logo=gmail">
 </a>
 </div>
