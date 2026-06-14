@@ -85,14 +85,6 @@ Currently, I am seeking my first professional opportunity to contribute to chall
 
 <img
   align="left"
-  title="Postman"
-  width="40pt"
-  style="padding-right: 10pt"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
-/>
-
-<img
-  align="left"
   title="Apache Maven"
   width="40pt"
   style="padding-right: 10pt"
@@ -101,43 +93,11 @@ Currently, I am seeking my first professional opportunity to contribute to chall
 
 <img
   align="left"
-  title="Git"
-  width="40pt"
-  style="padding-right: 10pt"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>    
-
-<img
-  align="left"
-  title="Hibernate ORM"
-  width="40pt"
-  style="padding-right: 10pt"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"
-/>    
-
-<img
-  align="left"
   title="PostgreSQL"
   width="40pt"
   style="padding-right: 10pt"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />        
-
-<img
-  align="left"
-  title="MySQL"
-  width="40pt"
-  style="padding-right: 10pt"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>        
-
-<img
-  align="left"
-  title="MariaDB"
-  width="40pt"
-  style="padding-right: 10pt"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg"
-/>     
 
 <img
   align="left"
