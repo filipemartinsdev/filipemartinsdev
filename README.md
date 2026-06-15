@@ -3,7 +3,8 @@
 </div>
 
 Hi there! 👋
-I'm a `Backend Developer` and `Software Engineering` student.
+
+I'm `Backend Developer` and `Software Engineering` student.
 
 My specialty is the Java Ecosystem, working on the architecture, desing and construction of sustentability software. I have practical experience with the entire development cycle, including planning, database modeling, unit testing and technical documentation. 
 
