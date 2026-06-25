@@ -142,9 +142,6 @@ Currently, I am seeking my first professional opportunity to contribute to chall
 
 </div>
 
-
-<br>
-<br>
 <br>
 <br>
 
