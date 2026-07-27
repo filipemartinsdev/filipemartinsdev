@@ -70,14 +70,6 @@ Currently, I am seeking my first professional opportunity to contribute to chall
 
 <img
   align="left"
-  title="OAuth"
-  width="40pt"
-  style="padding-right: 10pt"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg"
-/>
-
-<img
-  align="left"
   title="Swagger"
   width="40pt"
   style="padding-right: 10pt"
@@ -114,6 +106,14 @@ Currently, I am seeking my first professional opportunity to contribute to chall
   width="40pt"
   style="padding-right: 10pt"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"
+/>
+
+<img
+  align="left"
+  title="Kafka"
+  width="40pt"
+  style="padding-right: 10pt"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"
 />
 
 <img
