@@ -110,14 +110,6 @@ Currently, I am seeking my first professional opportunity to contribute to chall
 
 <img
   align="left"
-  title="Podman"
-  width="40pt"
-  style="padding-right: 10pt"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg"
-/>
-
-<img
-  align="left"
   title="RabbitMQ"
   width="40pt"
   style="padding-right: 10pt"
@@ -126,7 +118,7 @@ Currently, I am seeking my first professional opportunity to contribute to chall
 
 <img
   align="left"
-  title="Kafka"
+  title="Apache Kafka"
   width="40pt"
   style="padding-right: 10pt"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"
