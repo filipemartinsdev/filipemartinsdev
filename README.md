@@ -94,10 +94,26 @@ Currently, I am seeking my first professional opportunity to contribute to chall
 
 <img
   align="left"
+  title="MongoDB"
+  width="40pt"
+  style="padding-right: 10pt"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
+/>
+
+<img
+  align="left"
   title="Docker"
   width="40pt"
   style="padding-right: 10pt"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"
+/>
+
+<img
+  align="left"
+  title="Podman"
+  width="40pt"
+  style="padding-right: 10pt"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg"
 />
 
 <img
