@@ -78,11 +78,12 @@ Currently, I am seeking my first professional opportunity to contribute to chall
 
 <img
   align="left"
-  title="Apache Maven"
+  title="GraphQL"
   width="40pt"
   style="padding-right: 10pt"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg"
 />
+          
 
 <img
   align="left"
