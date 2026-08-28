@@ -6,7 +6,7 @@ Hi there! 👋
 
 I'm `Backend Developer` and `Software Engineering` student.
 
-My expertise is the Java Ecosystem, working on the architecture, desing and construction of sustentability software. I have practical experience with the entire development cycle, including planning, database modeling, unit testing and technical documentation. 
+My expertise is the Java Ecosystem, working on the architecture, desing and building of sustentability software. I have practical experience with the entire development cycle, including planning, database modeling, unit testing and technical documentation. 
 
 Currently, I am seeking my first professional opportunity to contribute to challenging projects and continue my technical development.  
 
